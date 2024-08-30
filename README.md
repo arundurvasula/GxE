@@ -1,4 +1,4 @@
-Scripts to replicate analyses from Durvasula and Price, 2024 "Distinct explanations underlie gene-environment interactions in the UK Biobank." (Preprint)[https://www.medrxiv.org/content/10.1101/2023.09.22.23295969.abstract]
+Scripts to replicate analyses from Durvasula and Price, 2024 "Distinct explanations underlie gene-environment interactions in the UK Biobank." [Preprint](https://www.medrxiv.org/content/10.1101/2023.09.22.23295969.abstract)
 
 ---
 
